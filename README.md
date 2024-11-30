@@ -18,7 +18,7 @@ This project develops an **E-Commerce Product Recommendation Engine** capable of
 
 ## Files Included  
 ### Reports  
-- **IEEE Report:** [IEEE Format Report (PDF)](reports/E_Commerce_Product_Recommendation_Engine_Report.pdf)  
+- **IEEE Report:** [IEEE Format Report (PDF)](https://github.com/Jaffer74/E-Commerce-Product-Recommendation-Engine-Enhancing-Customer-Online-Shopping-Experience/blob/main/Reports/E%20Commerce%20Product%20Recommendation%20Engine_Report(IEEE).pdf)  
 - **Overall Report:** [Detailed Project Report (PDF)](reports/ProjectReport_overall.pdf)  
 
 ### Codebase  
