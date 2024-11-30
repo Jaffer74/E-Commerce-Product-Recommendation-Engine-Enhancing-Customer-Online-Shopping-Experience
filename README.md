@@ -106,7 +106,12 @@ This project develops an **E-Commerce Product Recommendation Engine** capable of
 3. **Run PySpark Model:**
    Open and run notebooks/pyspark_model.ipynb.
 
+
 4. **Run Non-PySpark Model:**
    Open and run notebooks/non_pyspark_model.ipynb.
 
-    
+## Future Enhancements  
+- Integration of hybrid recommendation systems combining collaborative and content-based filtering.  
+- Real-time data streaming for dynamic recommendations.  
+- Deployment in a production environment for real-world use.
+
