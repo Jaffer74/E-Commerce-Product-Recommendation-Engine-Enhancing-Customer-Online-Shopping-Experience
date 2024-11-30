@@ -19,7 +19,7 @@ This project develops an **E-Commerce Product Recommendation Engine** capable of
 ## Files Included  
 ### Reports  
 - **IEEE Report:** [IEEE Format Report (PDF)](https://github.com/Jaffer74/E-Commerce-Product-Recommendation-Engine-Enhancing-Customer-Online-Shopping-Experience/blob/main/Reports/E%20Commerce%20Product%20Recommendation%20Engine_Report(IEEE).pdf)  
-- **Overall Report:** [Detailed Project Report (PDF)](reports/ProjectReport_overall.pdf)  
+- **Overall Report:** [Detailed Project Report (PDF)](https://github.com/Jaffer74/E-Commerce-Product-Recommendation-Engine-Enhancing-Customer-Online-Shopping-Experience/blob/main/Reports/ProjectReport_overall.pdf)  
 
 ### Codebase  
 1. **PySpark Implementation:**  
@@ -37,7 +37,6 @@ This project develops an **E-Commerce Product Recommendation Engine** capable of
 
 ## Project Structure  
 ```plaintext
-├── data/               # Dataset and preprocessed files  
 ├── notebooks/          # Jupyter Notebooks (PySpark and non-PySpark implementations)  
 ├── mapreduce/          # Mapper and Reducer scripts for data processing  
 ├── reports/            # Project reports (IEEE and detailed report)  
@@ -45,7 +44,7 @@ This project develops an **E-Commerce Product Recommendation Engine** capable of
 ├── README.md           # Project documentation  
 ```
 ## Dataset Description  
-- **Source:** [Amazon Product Reviews Dataset](https://www.kaggle.com/datasets)  
+- **Source:** [Amazon Product Reviews Dataset](https://www.kaggle.com/datasets/saurav9786/amazon-product-reviews/data)  
 - **Features:**
   - **User ID:** Unique identifier for each user.  
   - **Product ID:** Unique identifier for each product.  
@@ -71,17 +70,13 @@ This project develops an **E-Commerce Product Recommendation Engine** capable of
 
 ## Results and Comparisons  
 - **Key Metrics:** Precision, Recall, F1 Score, Accuracy, Execution Time.  
-- **Comparison Results:** PySpark significantly reduced computation time while maintaining high prediction accuracy.  
-
-### Access Full Reports  
-- **IEEE Report:** [Download Here](reports/E_Commerce_Product_Recommendation_Engine_Report.pdf)  
-- **Overall Report:** [Download Here](reports/ProjectReport_overall.pdf)  
+- **Comparison Results:** PySpark significantly reduced computation time while maintaining high prediction accuracy.
+- 
 
 ### Access Code and Results  
 - PySpark Implementation: [`pyspark_model.ipynb`](notebooks/pyspark_model.ipynb)  
 - Non-PySpark Implementation: [`non_pyspark_model.ipynb`](notebooks/non_pyspark_model.ipynb)  
 - Mapper and Reducer Scripts: [`mapper.py`](mapreduce/mapper.py), [`reducer.py`](mapreduce/reducer.py)  
-- Dataset: [`rating_electronics.csv`](data/rating_electronics.csv)  
 
 ---
 
